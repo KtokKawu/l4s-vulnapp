@@ -25,10 +25,8 @@ dist/
 out/
 
 # dot files and folders
-.factorypath
-.gradle
-.target
 .git/
+.gradle/
 .idea/
 .idea_modules/
 
